@@ -5,8 +5,7 @@ Sammendraget tar utgangspunkt i pensumboken Seeing What's Next, spesifiserte pen
 
 (Deler av stoffet er kopiert fra Wikipedia, boken The Long Tail, og andre kilder, og det er derfor mye blanding av norsk og engelsk i dette dokumentet.)
 
-Pensum
-------
+### Pensum
 
 * [The Dawn of the Stupid Network](http://www.isen.com/papers/Dawnstupid.html)
 * [Chains, Shops and Networks: The Role of IS in New Models of Value Creation](http://files.kimjoar.net/ttm4165_chains-shops-and-networks.pdf)
@@ -23,6 +22,14 @@ Pensum
 * [ICT for Development and Climate Preservation? On the Need for more Realism and more Courageous Business Models](http://files.kimjoar.net/ttm4165_ict-for-development-and-climate-preservation.pdf)
 * Seeing What's Next: Using the Theories of Innovation to Predict Industry Change
 * Information Rules, kap 5 - Recognizing Lock-In
+
+### Faglig innhold
+
+Historiske forhold, monopoler, deregulering. Dagens og framtidens situasjon, global konkurranse, regulering, aktører. Teknologi og marked: "Technology push", "market pull". Teknologiutvikling: Trender, innføring av ny teknologi, teknologi som differensiator. Organisasjonsstruktur og kulturer: Krav til dynamikk, organisasjonsutvikling. IKT - økonomi: Problemstillinger og strategier.
+
+### Læringsmål
+
+Emnet skal gi forståelse for problemstillinger og løsninger i grenseland mellom informasjons- og kommunikasjonsteknologi (IKT), organisasjon og marked, med fokus på framtidige problemstillinger.
 
 Overblikk
 ---------
@@ -92,4 +99,14 @@ Seeing What's Next
 ------------------
 
 * Framework for predicting outcomes in the evolution of any industry.
+* Three-part model that helps decision-makers spot the signals of industry change, determine the outcome of competitive battles, and assess whether a firm's actions will ensure or threaten future success.
+* Sustaining innovations are what move companies along established improvement trajectories. They are improvements to existing products on dimensions historically valued by customers.
+* Disruptive innovation introduce a new value proposition. They either create new markets or reshape existing ones. 
+* Two types of disruptive innovations: 
+  * Low-end. Occur when existing products and services are "too good" and hence overpriced relative to the value existing customers can use.
+  * New-market. Occur when characteristics of existing products limit the number of potential consumers or force consumption to take place in inconvenient, centralized settings.
+* The Resources, Processes and Values (RPV) theory holds that resources (what a firm has), processes (how it does its work), and values (what a firm wants to do) collectively define an organization's strengths, weaknesses and blind spots.
+* Resources are things or assets that organizations can buy or sell, build or destroy. Processes are the established patterns of work by which companies transform inputs into outputs of greater worth. Values determine the criteria by which organizations allocate their resources.
+* The Value Chain Evolution (VCE) theory assess whether a company has made the right organizational design decisions to compete successfully.
+* VCE's golden rule: Integrate to improve what is "not good enough" and out-source what is "more than good enough". Solving the hard problems allows firms to capture value.
 * 
