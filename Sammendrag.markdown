@@ -9,11 +9,9 @@ Sammendraget tar utgangspunkt i pensumboken Seeing What's Next, spesifiserte pen
 
 * [The Dawn of the Stupid Network](http://www.isen.com/papers/Dawnstupid.html)
 * [Chains, Shops and Networks: The Role of IS in New Models of Value Creation](http://files.kimjoar.net/ttm4165_chains-shops-and-networks.pdf)
-* [Telecommunications and Complexity](http://files.kimjoar.net/ttm4165_telecommunications-and-complexity.pdf)
 * [Challenges in Telecommunications](http://files.kimjoar.net/ttm4165_challenges-in-telecommunications.pdf)
 * [Positive Feedbacks in the Economy](http://files.kimjoar.net/ttm4165_positive-feedbacks-in-the-economy.pdf)
 * [Positive feedback from the market: network externalities](http://files.kimjoar.net/ttm4165_positive-feedback-from-the market-network-externalities.pdf)
-* [Internet as a Multiple Graph Structure: The Role of the Transport Layer](http://files.kimjoar.net/ttm4165_internet-as-a-multiple-graph-structure.pdf)
 * [Network Neutrality](http://files.kimjoar.net/ttm4165_network-neutrality.pdf)
 * [Wired: The Long Tail](http://www.wired.com/wired/archive/12.10/tail.html)
 * [Wikipedia: The long tail](http://en.wikipedia.org/wiki/The_Long_Tail)
@@ -308,7 +306,16 @@ Chains, Shops and Networks
 Stupid Network
 --------------
 
-
+* In a stupid netwowrk, control passes from the center to the edge, from the telco to the users with an abundance of processing power at their fingertips. The center of the netowrk is based on plentiful infrastructure — cheap bandwidth and switching — that is about as smart as a river.
+* Stupid networks have three basic advantages over Intelligent Networks:
+  * Abundant infrastructure
+  * Underspecification
+  * A universal way of dealing with underlying network details
+* Two models of capital investment:
+  * In the telco model, network expansion is a big decision that requires expert engineers, detailed Erlang models of congestion, and several consultants - and takes months, it not years, no implement.
+  * In a stupid network, expansion is no problem.
+* This ability to "just do it" liberates huge amounts of innovative energy.
+* 
 
 Seeing What's Next
 ------------------
@@ -324,4 +331,143 @@ Seeing What's Next
 * Resources are things or assets that organizations can buy or sell, build or destroy. Processes are the established patterns of work by which companies transform inputs into outputs of greater worth. Values determine the criteria by which organizations allocate their resources.
 * The Value Chain Evolution (VCE) theory assess whether a company has made the right organizational design decisions to compete successfully.
 * VCE's golden rule: Integrate to improve what is "not good enough" and out-source what is "more than good enough". Solving the hard problems allows firms to capture value.
-* 
+
+* Fire forutsetninger for økt grad av disruption:
+  1. Idéutvikling. Incumbents frigjør ideer.
+  2. Leverandører evne til å levere.
+  3. Mobil, kompetent og tilgjengelig arbeidskraft.
+  4. Tilgjengelig kapital.
+
+![Potensielle kundegrupper](potential-customer-groups.png)
+
+Finansielle betraktninger
+-------------------------
+
+* Utenom Telenor er telekom-markedet i Norge forsvinnende lite. 9 % av total verdi på børsselskapene er telekom-bedrifter (60-70% er oljerelatert).
+* Hvorfor? Mange flinke ingeniører har gått til oljerelaterte bedrifter.
+* Hva skaper lønnsomhet?
+  * Etterspørsel
+  * Barriere for å komme inn i markedet. Differensiering. Unikhet. Jo mer unikt, jo mindre konkurrenter, jo bedre betalt. Reguleringer. Patenter. Ekslusiv tilgang til råvarer.
+* Hvordan måle lønnsomhet?
+  * Margin = Profit / Omsetning
+  * Avkastning på kapital
+* Hvorfor er lønnsomhet viktig?
+  * Tjener er formål. Noen ønsker det du lager.
+  * Ingen lønnsomhet = Ingen finansiering = Ingen arbeidsplasser.
+  * Høy lønnsomhet = Ikke høy nok konkurranse. Mange blir interessert i å komme inn i dette markedet. Stimulerer innovasjon.
+* Hvorfor har vi en børs?
+  * Sikre at kapital møter innovasjon.
+  * Kan ikke ta risikoen ved å låse pengene i lang tid. På børsen kan man selge igjen når man ønsker, raskere å realisere pengene.
+  * Skaper ikke verdier direkte, men indirekte gjennom å tilføre kapital.
+  * Marginal kjøper og marginal selger bestemmer pris.
+* Finanskrise
+  * Gearing: For hver krone vi har i egenkapital kan vi låne ut 12.5 kr
+  * Når de taper én krone, må de trekke inn 12.5 kr i kreditt.
+* Stort sett ingen innovasjon før 1994. Regulert monopol. Det endret seg når vi fikk Telenor på børs, og flere fikk lov til å sysle med telekom. Deregulering står sentralt.
+* To måter å entré fasttelefoni-markedet:
+  1. Bygge eget nettverk. Enorm investering.
+  2. Leie kapasitet hos Telenor. Lønnsomhet veldig avhengig av regulert rammeverk. Ingenting unikt -> lav lønnsomhet. Ingen reell konkurranse.
+* Bredbånd har endret markedet. Fast pris. Sende hva som helst over nettverket (IP). Kan skape en telekom-tjeneste uten å bygge et nettverk og uten å leie kapasitet hos noen. Nøkkelpunkt: IP separerer aksess fra tjeneste. Vertikalt vs horisontal.
+* Tre måter å komme seg inn i mobilmarkedet:
+  1. Nettverkseier. Telenor og NetCom.
+  2. MVNO. Ventelo, Tele2 og TDC. Eier switche-utstyr og SIM-kort. Har ikke lisenser. Må låne av nettverkseiere. Litt utstyr selv.
+  3. Service provider. 50+ stk. Eier ingenting. Trenger ingen kompetanse. Videreselger egentlig kun abonnement for Telenor og NetCom. Vanskelig å differensiere seg.
+* Termineringskostnader er _enormt_ viktige.
+* Konvergens: løsriver seg fra aksessplattform, og alt går over til IP. 
+* Lav inngangsbarriere i IP-nett. Lav inntjening.
+* **Mye bra info på side 22 i foilene**
+
+Grønn IKT
+---------
+
+* Agenda:
+  * Grønn IKT, hva er problemet
+  * Hvordan møter IKT-industrien dette?
+* Sentral i effektivitetsøkningen i Europa
+* Verdens energiforbruk øker. Fossilt brennstoff viktigste energikilde.
+* IKT kan bidra til kontroll og mindre energiforbruk i andre bransjer
+* 2 / 98
+* Feie for egen dør, men kan også bidra stort på 98%. Slik jeg tolker det, kan godt IKT gå én prosent opp, så lenge resten går fem prosent ned på grunn av økningen.
+* IKT har en dyp innflytelse på samfunnet
+* IKT kommer til å øke sitt absolutte og relative utslipp i et globalt perspektiv
+* Utbredelsen av IKT øker raskt som følge av stor økonomisk vekst.
+* Redusere globalt CO2-utslipp:
+  * Redusere avskogning
+  * Lagring av CO2
+  * Fornybar energi
+  * Energieffektivisering
+  * Transformasjon til et lavkarbonssamfunn
+* Anvende av teknologi over kjøp av ny teknologi (Kjøpe ny server kontra bruke serverne på annen måte)
+* Like viktig som å energieffektivisere er det å bruke energi til riktig formål.
+* Fylle riktig (biodrivstoff, kjøre mindre, mindre drivstoff per km), fyre riktig (Etter-isolere, ved/pellets, varmepumpe), fly riktig (Kjøpe kvoter, fly mindre)
+* Corporate Social Responsibility. Essentially the deliberate inclusion of public interest into corporate decision-making, and the honoring of a triple bottom-line: People, Planet, Profit.
+* E-læring, ECO-kurs, rammeavtaler EL-biler, miljøfond, virtuelle møter, industriell automatisering, Logistikk-prosesser, de-materalisering
+* Grønn IKT handler om å fokusere på omlegging av verdikjeder og arbeidsprosesser.
+* Forståelse av hvordan IKT kan bidra, er essensielt
+
+Åpne nett
+---------
+
+* Hvorfor fiber?
+* Aksesshastigheten øker
+* Graving utgjør 80% av kost uansett kabeltype. Føringsveien utgjør 50% av øvrige kostnader.
+* Investere i FTTH
+  * First mover benefit, lav churn rate, nye inntektsstrømmer.
+* Kunder vil ha tjenester, ikke teknologi.
+* Åpent nett:
+  * Innholdsleverandører leier adgang til å levere sine tjenester og netteiers aksessnett.
+  * Kundene kan selv velge blant leverandørene av Internett, IPTV, IP-telefone og andre tjenester.
+  * Energiverk/kommune tra rollen som nettutbygger
+  * Netteier kan også ta operatørrollen
+  * Nettoperatør kan levere sitt eget innhold
+  * Horisontalt integrerte operatører. Ett nett bygges av én infrastruktur-tilbyder. Nettet driftes av en rendyrket nettverksoperatør. Tjenesteleverandørene tilbys ikke-diskriminerende tilgang til nettet. Open access.
+* Regulering
+  * Hva er best for vekst? "Tilgang til felles infrastruktur gir billigst og raskest utbygging", "Regulering kan true utbyggers lønnsomhet dersom man må tillate konkurrenter på eget nett", "La oss først bygge fortest mulig, så kan markedet reguleres i etterkant."
+
+<table>
+  <tr>
+    <th></th>
+    <th>Åpent nett</th>
+    <th>Lukket nett</th>
+  </tr>
+  <tr>
+    <th>For kunden</th>
+    <td>Ubegrenset utvalg av tjenester. Markedet bestemmer, lik tilgang. Ingen lock-in på tjeneste. Konkurranse på pris mot sluttkunde. Den beste vinner.</td>
+    <td>Begrenset utvalg av tjenester. Netteier bestemmer. Lånt til tjenesteleverandør. Mer integrerte tjenester. Mindre konkurranse.</td>
+  </tr>
+  <tr>
+    <th>For leverandøren</th>
+    <td>Time to market. Ingen konkurranse fra netteier. Eier kunderelasjonen.</td>
+    <td>Vanskelig å få tilgang. Sikrere inntjening, mindre konkurranse. Konkurranse fra netteier, ingen kunderelasjon.</td>
+  </tr>
+  <tr>
+    <th>For netteier</th>
+    <td>Slipper tjenesteproduksjon. Markedsdynamikk gir billige og gode tjenester. Sluttkunden bestemmer.</td>
+    <td>Selv etablere, produsere og drifte tjenester. Risikerer høy produksjonskostnad. Alene ansvarlig for kvalitet.</td>
+  </tr>
+  <tr>
+    <th>Makt</th>
+    <td>Netteier dikterer priser/marginer for hver tjenestekategori. Tjenesteleverandør må levere billig og bra. Kunde kan velge tjenesteleverandør, ikke netteier.</td>
+    <td>Netteier har "all" makt. Konkurranse fra andre plattformer.</td>
+  </tr>
+</table>
+
+Fra sammendragsøkt
+------------------
+
+* Verdiskapning
+* Regulering
+* Samtrafikk
+* Long Tail
+* Teknologi > produkt
+* Åpne nett
+* Kommers
+* Finans
+* Grønn IKT
+
+Hvordan bransjen tenker. Spranget fra telekom til Internett. Eierskap. Styring. Samfunnsgoder.
+
+HVa er særeget for IKT? Strategiske konsekvenser, teknolgi, ...
+
+Ikke pensunm: Telecommnunications and complexity & The role of the transport layer
+
