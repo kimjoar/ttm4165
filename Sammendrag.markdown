@@ -32,6 +32,25 @@ Emnet skal gi forståelse for problemstillinger og løsninger i grenseland mello
 Overblikk
 ---------
 
+* Nøkkelord: Bærekraft, ressurseffektivisering, faktor
+* IKT tilbyr:
+  * Av-materialisering
+  * Effektivisering
+  * Fjerning av "friksjon" i den økonomiske flyten.
+* Når effektiviteten i bruken av en ressurs øker, blir ressursen relativt billigere i bruk. Da stiger etterspørselen.
+* Når ressursbruken øker, blir det økonomisk vekst, som fører til mer ressursbruk.
+* Marginalkostnad går mot null.
+* Fra vertikal til horisontal integrering.
+* Kostnad for avstand og tid er uvesentlig.
+* Global samordning.
+* Volum går opp, kostnader går ned.
+* Vekst skal drives av brukere og markeder, ikke av politiske vedtak.
+* Verdikjedene åpnes, blant annet gjennom regulering.
+* Høy usikkerhet, korte horisonter.
+* Produkter flyttes fra IN til terminalene.
+* Lettere å komme inn på markedet og tilby produkter. Alle kan lage tjenester.
+* Verdiskapningsmåten blir helt omformet.
+
 Regulering
 ----------
 
@@ -86,8 +105,8 @@ Regulering
 
 ### Tjenesteregulering - ekomloven
 
-* Ex ante (before the event) vs. ex post (after the event). Ex-ante is used most commonly in the commercial world, where results of a particular action, or series of actions, are forecast in advance. Ex post is based on knowledge of the past, measure of past performance.
-* 7 (tidligere 18) markeder, delt av ESA (EFTAs overvåkningsorgan). PT må vurdere hvilke som er relevante for Norge, hvorvidt det finnes aktører med SMP, og hvilke virkemidler som skal benyttes.
+* Ex ante (before the event) vs. ex post (after the event). Ex-ante is used most commonly in the commercial world, where results of a particular action, or series of actions, are forecast in advance. Ex post is based on knowledge of the past, measure of past performance. Ekom-loven er ex ante.
+* 7 (tidligere 18) markeder, delt av ESA (EFTAs overvåkningsorgan). PT må vurdere hvilke som er relevante for Norge, hvorvidt det finnes aktører med SMP, og hvilke virkemidler som skal benyttes. I hvert marked må behovet for ex ante regulering vurderes. Primært fokusert mot grossistmarkeder (originering, terminering, tilgang til aksessnett, ...).
 
 ### SMP (Sterk markedsstilling)
 
@@ -192,7 +211,7 @@ Samtrafikk
 * Det globale Internett består av mange sammenknyttede subnett som alle bruker IP-protokollen
 * Samtrafikk en grunnleggende forutsetning for et globalt Internett
 * Trafikkutveksling mellom ISPer foregår i fysiske installasjoner (Internet Exchange Points, IXPs)
-* Peeringer en vanlig form for samtrafikk mellom ISPer, og betinger utveksling av rutinginformasjon mellom to ISPer for å sikre at trafikk fra den ene ISP kan nå frem til kunder hos den andre, og omvendt.
+* Peering er en vanlig form for samtrafikk mellom ISPer, og betinger utveksling av rutinginformasjon mellom to ISPer for å sikre at trafikk fra den ene ISP kan nå frem til kunder hos den andre, og omvendt.
 * Peering-avtalerer vanligvis basert på 50/50 deling av kostnadene ved å etablere samtrafikk mellom de to ISPene.
 
 The Long Tail
@@ -237,9 +256,9 @@ Network externalities
 * Negative feedback: The feedback signal counteracts any deviation of the output of the system from its equilibrium value. Systems with negative feedback is always stationary.
 * Positive feedback: Any change in the output signal is amplified. In systems with positive feedback the output signal approaches a fixed limit (or saturates).
 * These models are based on buyers only buying one copy during the whole lifetime of the product.
-* In an ordeínary market, the number of copies sold per unit time is proportional to the number of people not having purchased a copy already.
+* In an ordínary market, the number of copies sold per unit time is proportional to the number of people not having purchased a copy already.
 * Positive feedback from the market means that the number of customers likely to purchase a product also depends on how many customers that have already purchased the product.
-* Sometimes this type of market is called network externality or network effect because the feedback is caused by a formal or informal network among the customers. Such networks may be based on acquaintance where the buyer may seek advice from other people before buying the product of a patricular brand. The benefit the customers finds in owning the product, increases with the number of people already owning it.
+* Sometimes this type of market is called network externality or network effect because the feedback is caused by a formal or informal network among the customers. Such networks may be based on acquaintance where the buyer may seek advice from other people before buying the product of a particular brand. The benefit the customers finds in owning the product, increases with the number of people already owning it.
 * All markets with positive feedback are nonlinear.
 * Important observations on markets with positive feedback (in a monopoly situation):
   1. If there are no initial customers having purchased the good, there will be no customers in the future.
@@ -264,19 +283,33 @@ Network Neutrality
 * Supporters of network neutrality claim that the principle is in favour of competitive market evolution since many applications and content providers can operate on the same arena and thus increase the total national revenues genereted by the network. Network neutrality also favours innovation, experimentation, and provision of services that are too small and too special to be considered seriously by the large application services providers (ASP).
 * Opponents of network neutrality claim it is bad for the network and the national economy since the revenues from the network operation will become too small to support the future evolution of the network. Therefore it is claimed that the price of the access should depend on the quality of service (QoS) offered by the ISP.
 
-Forretningsmodeller
--------------------
-
-Disruption
-----------
-
 Telecom 101
 -----------
+
+* Hva vil brukeren ha?
+* Hvordan vil brukeren ha det?
+* Brukerpreferanser
+* Hva gjør produktet unikt?
+* Hvilken teknologi passer best?
+* Hva er den reelle etterspørselen?
+* Prismodeller
+* Priselastisitet (hvor mange prosent etterspørselen endrer seg dersom prisen endrer seg med én prosent)
+* Bruksmønster (hvor mye, ofte, ...)
+* Markedspotensiale
+* ARPU (Average Revenue Per User)
+* Sluttbrukerutstyr (Pris, tilgjengelighet, når, ...). Ofte undervurdert.
+* Rammebetingelser. Ny aktør vs. eksisterende.
+* Markedsføring og distribusjon
+* Regulering
+* Frekvens/lisens. Viktig.
+* Time to market.
+* Det er vanskeligere å produsere, enn å fakturere.
+* Kapitalinvesteringer.
 
 Chains, Shops and Networks
 --------------------------
 
-### Chain
+### Chain (kjede)
 
 ![Value Chain](value-chain.png)
 
@@ -284,7 +317,7 @@ Chains, Shops and Networks
 * A value chain is a chain of activities. Products pass through all activities of the chain in order and at each activity the product gains some value. The chain of activities gives the products more added value than the sum of added values of all activities.
 * Require strict management of processes, timing, production cost and stock.
 
-### Shops
+### Shops (verksted)
 
 * Shops are problem-solving organisations.
 * Earn more money the better and faster they can solve a problem.
@@ -293,11 +326,11 @@ Chains, Shops and Networks
 * Should have the capability to form flexible project teams and be able to reorganize quickly in order to solve new problems.
 * Damaging to shops if they are managed in a hierarchical manner.
 
-### Networks
+### Networks (nettverk)
 
-* The network is a business medoating between the members of the market: people or other businesses, e.g. banks, newspapers and stockbrokers.
-* The challange is to unberstand the correlations that may exist in the mixed market in which the company is operating.
-* Netowrks often produce goods that are not stored, but consumed immediately.
+* The network is a business mediating between the members of the market: people or other businesses, e.g. banks, newspapers and stockbrokers.
+* The challange is to understand the correlations that may exist in the mixed market in which the company is operating.
+* Networks often produce goods that are not stored, but consumed immediately.
 * Networks can also offer mutual benefits to its members. This is the idea behind clubs of different kinds: the more members, the more benefit.
 * May cooperate in parallel or in series forming rather complex configurations.
 * The value being created is between customers when they interact facilitated by the value networks. 
@@ -306,16 +339,15 @@ Chains, Shops and Networks
 Stupid Network
 --------------
 
-* In a stupid netwowrk, control passes from the center to the edge, from the telco to the users with an abundance of processing power at their fingertips. The center of the netowrk is based on plentiful infrastructure — cheap bandwidth and switching — that is about as smart as a river.
+* In a stupid network, control passes from the center to the edge, from the telco to the users with an abundance of processing power at their fingertips. The center of the network is based on plentiful infrastructure — cheap bandwidth and switching — that is about as smart as a river.
 * Stupid networks have three basic advantages over Intelligent Networks:
   * Abundant infrastructure
   * Underspecification
   * A universal way of dealing with underlying network details
 * Two models of capital investment:
-  * In the telco model, network expansion is a big decision that requires expert engineers, detailed Erlang models of congestion, and several consultants - and takes months, it not years, no implement.
+  * In the telco model, network expansion is a big decision that requires expert engineers, detailed Erlang models of congestion, and several consultants - and takes months, it not years, to implement.
   * In a stupid network, expansion is no problem.
 * This ability to "just do it" liberates huge amounts of innovative energy.
-* 
 
 Seeing What's Next
 ------------------
@@ -331,12 +363,15 @@ Seeing What's Next
 * Resources are things or assets that organizations can buy or sell, build or destroy. Processes are the established patterns of work by which companies transform inputs into outputs of greater worth. Values determine the criteria by which organizations allocate their resources.
 * The Value Chain Evolution (VCE) theory assess whether a company has made the right organizational design decisions to compete successfully.
 * VCE's golden rule: Integrate to improve what is "not good enough" and out-source what is "more than good enough". Solving the hard problems allows firms to capture value.
-
 * Fire forutsetninger for økt grad av disruption:
   1. Idéutvikling. Incumbents frigjør ideer.
   2. Leverandører evne til å levere.
   3. Mobil, kompetent og tilgjengelig arbeidskraft.
   4. Tilgjengelig kapital.
+* Distinguishes between "low-end disruption" which targets customers who do not need the full performance valued by customers at the high-end of the market and "new-market disruption" which targets customers who have needs that were previously unserved by existing incumbents.
+* "Low-end disruption" occurs when the rate at which products improve exceeds the rate at which customers can adopt the new performance.
+* It is often entirely rational for incumbent companies to ignore disruptive innovations, since they compare so badly with existing technologies or products.
+* Most disruptive innovations will improve faster than what is demanded by mainstream customers, meaning that after some time disruptors should be able to attack established firms.
 
 ![Potensielle kundegrupper](potential-customer-groups.png)
 
@@ -350,9 +385,9 @@ Finansielle betraktninger
   * Barriere for å komme inn i markedet. Differensiering. Unikhet. Jo mer unikt, jo mindre konkurrenter, jo bedre betalt. Reguleringer. Patenter. Ekslusiv tilgang til råvarer.
 * Hvordan måle lønnsomhet?
   * Margin = Profit / Omsetning
-  * Avkastning på kapital
+  * Avkastning på kapital (ROI)
 * Hvorfor er lønnsomhet viktig?
-  * Tjener er formål. Noen ønsker det du lager.
+  * Tjener et formål. Noen ønsker det du lager.
   * Ingen lønnsomhet = Ingen finansiering = Ingen arbeidsplasser.
   * Høy lønnsomhet = Ikke høy nok konkurranse. Mange blir interessert i å komme inn i dette markedet. Stimulerer innovasjon.
 * Hvorfor har vi en børs?
@@ -361,7 +396,7 @@ Finansielle betraktninger
   * Skaper ikke verdier direkte, men indirekte gjennom å tilføre kapital.
   * Marginal kjøper og marginal selger bestemmer pris.
 * Finanskrise
-  * Gearing: For hver krone vi har i egenkapital kan vi låne ut 12.5 kr
+  * Gearing: For hver krone vi har i egenkapital kan vi låne ut 12.5 kr (Dersom man går inn med 8% av total)
   * Når de taper én krone, må de trekke inn 12.5 kr i kreditt.
 * Stort sett ingen innovasjon før 1994. Regulert monopol. Det endret seg når vi fikk Telenor på børs, og flere fikk lov til å sysle med telekom. Deregulering står sentralt.
 * To måter å entré fasttelefoni-markedet:
@@ -397,7 +432,7 @@ Grønn IKT
   * Fornybar energi
   * Energieffektivisering
   * Transformasjon til et lavkarbonssamfunn
-* Anvende av teknologi over kjøp av ny teknologi (Kjøpe ny server kontra bruke serverne på annen måte)
+* Anvendelsen av teknologi over kjøp av ny teknologi (Kjøpe ny server kontra bruke serverne på annen måte)
 * Like viktig som å energieffektivisere er det å bruke energi til riktig formål.
 * Fylle riktig (biodrivstoff, kjøre mindre, mindre drivstoff per km), fyre riktig (Etter-isolere, ved/pellets, varmepumpe), fly riktig (Kjøpe kvoter, fly mindre)
 * Corporate Social Responsibility. Essentially the deliberate inclusion of public interest into corporate decision-making, and the honoring of a triple bottom-line: People, Planet, Profit.
