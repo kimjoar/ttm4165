@@ -11,7 +11,7 @@ Sammendraget tar utgangspunkt i pensumboken Seeing What's Next, spesifiserte pen
 * [Chains, Shops and Networks: The Role of IS in New Models of Value Creation](http://files.kimjoar.net/ttm4165_chains-shops-and-networks.pdf)
 * [Challenges in Telecommunications](http://files.kimjoar.net/ttm4165_challenges-in-telecommunications.pdf)
 * [Positive Feedbacks in the Economy](http://files.kimjoar.net/ttm4165_positive-feedbacks-in-the-economy.pdf)
-* [Positive feedback from the market, network externalities](http://files.kimjoar.net/ttm4165_positive-feedback-from-the market-network-externalities.pdf)
+* [Positive feedback from the market](http://files.kimjoar.net/ttm4165_positive-feedback-from-the-market-network-externalities.pdf)
 * [Network Neutrality](http://files.kimjoar.net/ttm4165_network-neutrality.pdf)
 * [Wired: The Long Tail](http://www.wired.com/wired/archive/12.10/tail.html)
 * [Wikipedia: The long tail](http://en.wikipedia.org/wiki/The_Long_Tail)
