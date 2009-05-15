@@ -422,7 +422,7 @@ Disruptive innovation
 
 ![Potensielle kundegrupper](http://github.com/kjbekkelund/ttm4165/tree/master/potential-customer-groups.png?raw=true)
 ![Tilpasse organisasjonen til endringer](http://github.com/kjbekkelund/ttm4165/tree/master/tilpasse-organisasjon-til-endring.png?raw=true) 
- 
+
 Finansielle betraktninger
 -------------------------
 
@@ -452,13 +452,34 @@ Finansielle betraktninger
   2. Leie kapasitet hos Telenor. Lønnsomhet veldig avhengig av regulert rammeverk. Ingenting unikt -> lav lønnsomhet. Ingen reell konkurranse.
 * Bredbånd har endret markedet. Fast pris. Sende hva som helst over nettverket (IP). Kan skape en telekom-tjeneste uten å bygge et nettverk og uten å leie kapasitet hos noen. Nøkkelpunkt: IP separerer aksess fra tjeneste. Vertikalt vs horisontal.
 * Tre måter å komme seg inn i mobilmarkedet:
-  1. Nettverkseier. Telenor og NetCom.
-  2. MVNO. Ventelo, Tele2 og TDC. Eier switche-utstyr og SIM-kort. Har ikke lisenser. Må låne av nettverkseiere. Litt utstyr selv.
-  3. Service provider. 50+ stk. Eier ingenting. Trenger ingen kompetanse. Videreselger egentlig kun abonnement for Telenor og NetCom. Vanskelig å differensiere seg.
+  1. **Nettverkseier**. Telenor og NetCom.
+  2. **MVNO**. Ventelo, Tele2 og TDC. Eier switche-utstyr og SIM-kort. Har ikke lisenser. Må låne av nettverkseiere. Litt utstyr selv.
+  3. **Service provider**. 50+ stk. Eier ingenting. Trenger ingen kompetanse. Videreselger egentlig kun abonnement for Telenor og NetCom. Vanskelig å differensiere seg.
 * Termineringskostnader er _enormt_ viktige.
 * Konvergens: løsriver seg fra aksessplattform, og alt går over til IP. 
 * Lav inngangsbarriere i IP-nett. Lav inntjening.
-* **Mye bra info på side 22 i foilene**
+* NMår logikken flyttes ut av kjernenettet, må telco-ene ta et valg på tjeneste vs. aksess.
+
+<table>
+  <tr>
+    <th></th>
+    <th>Markedet</th>
+    <th>Konkurranse</th>
+    <th>Profitt-potensial</th>
+  </tr>
+  <tr>
+    <th>Legacy telco</th>
+    <td>Høy capex. Høy inngangsbarriere.</td>
+    <td>Naturlig monopol. Regulert.</td>
+    <td>Høy</td>
+  </tr>
+  <tr>
+    <th>Ny telco</th>
+    <td>Ingen capex i infrastruktur. Veldig lav inngangsbarriere. Null kostnad på distribusjon.</td>
+    <td>"Perfekt" konkurranse. Teknologi-drevet de-regulering i tjenestelagene.</td>
+    <td>Pris = marginalkost. Veldig vanskelig å skape høye marginer.</td>
+  </tr>
+</table>
 
 Grønn IKT
 ---------
