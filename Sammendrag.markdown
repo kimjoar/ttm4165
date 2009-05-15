@@ -256,7 +256,7 @@ Network externalities
 * A market model describes an idealisation and simplification of the real market.
 * Feedback in a system means that the output signal from the system (e.g. price or market share) is fed back to the input of the system.
 * Negative feedback: The feedback signal counteracts any deviation of the output of the system from its equilibrium value. Systems with negative feedback is always stationary.
-* Positive feedback: Any change in the output signal is amplified. In systems with positive feedback the output signal approaches a fixed limit (or saturates).
+* Positive feedback: Any change in the output signal is amplified. In systems with positive feedback the output signal may approache a fixed limit (or saturates), or may also start oscillating.
 * These models are based on buyers only buying one copy during the whole lifetime of the product.
 * In an ordinary market, the number of copies sold per unit time is proportional to the number of people not having purchased a copy already.
 * Positive feedback from the market means that the number of customers likely to purchase a product also depends on how many customers that have already purchased the product.
@@ -271,14 +271,15 @@ Network externalities
   * Metcalf's law: Value of communications network is quadratic in the number of subscribers in the network.
   * Reed's law: Value of the network is 2^N (exponential) since this is the number of groups that can be formed in the network. The capability of forming groups with different purposes and scopes may be the most important aspect of some networks.
 * Churning rate: Net number of customers that A looses to or captures from B.
-* Winner-takes-all market. Usually there it not place for more than one of these products in the market (e.g. VHS vs Beta). (Market with positive feedback there two providers A and B are offering the same (or substitutable) product, and customers may churn.)
+* Winner-takes-all market. Usually there it not place for more than one of these products in the market (e.g. VHS vs Beta). Market with positive feedback there two providers A and B are offering the same (or substitutable) product, and customers may churn.
+* The rules of positive feedback imply that it is much harder to recoup a market than to hold on to it in the first place.
 
 Lock-in
 -------
 
 * Winner-takes-all.
 * Det koster kunder å skifte leverandør
-* Det kost ny leverandør å kapre kunden fra andre
+* Det koster ny leverandør å kapre kunden fra andre
 * Customer lock-in is the norm in the information economy.
 * Switching costs must be evaluated relative to revenues on a per-customer basis.
 * Anyone who makes investments that are specific to a particular supplier, customer, or partner is subject to lock-in for the economic lifetime of those investments.
@@ -458,7 +459,7 @@ Finansielle betraktninger
 * Termineringskostnader er _enormt_ viktige.
 * Konvergens: løsriver seg fra aksessplattform, og alt går over til IP. 
 * Lav inngangsbarriere i IP-nett. Lav inntjening.
-* NMår logikken flyttes ut av kjernenettet, må telco-ene ta et valg på tjeneste vs. aksess.
+* Når logikken flyttes ut av kjernenettet, må telco-ene ta et valg på tjeneste vs. aksess.
 
 <table>
   <tr>
@@ -508,6 +509,9 @@ Grønn IKT
 * E-læring, ECO-kurs, rammeavtaler EL-biler, miljøfond, virtuelle møter, industriell automatisering, Logistikk-prosesser, de-materalisering
 * Grønn IKT handler om å fokusere på omlegging av verdikjeder og arbeidsprosesser.
 * Forståelse av hvordan IKT kan bidra, er essensielt
+* The power of ICT applications lends them to turning local economics into growth spirals — a most wanted good, but problematic at a higher level of analysis, as growth also triggers energy increase and extraction economics. These effects need to be addressed at a strategic and business model level.
+* In the general enthusiasm over what extraordinary gains mankind can have from ICT, we may underestimate negative impacts, particularly indirect effects.
+* While efficiency gains might come easily with ICT, it is on the other hand highly possible that the gains obtained will be used for new resource consumption. It might even happen that the gains achieved become the driver as such for far more consumption.
 
 Åpne nett
 ---------
