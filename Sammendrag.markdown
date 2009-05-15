@@ -1,9 +1,9 @@
 Sammendrag av TTM4165 - IKT, organisasjon og marked
 ===================================================
 
-Sammendraget tar utgangspunkt i pensumboken Seeing What's Next, spesifiserte pensumartikler og forelesningsfoiler.
+Sammendraget tar utgangspunkt i pensumboken Seeing What's Next, spesifiserte pensumartikler og forelesningsfoiler. Sammendraget er basert på min kunnskap i faget, og er derfor tynn på noen områder jeg kan godt og fyldigere på områder jeg ikke har mye kunnskap fra før.
 
-(Deler av stoffet er kopiert fra Wikipedia, boken The Long Tail, og andre kilder, og det er derfor mye blanding av norsk og engelsk i dette dokumentet.)
+(Deler av stoffet er kopiert fra Wikipedia, boken The Long Tail, og andre kilder, og det er derfor mye blanding av norsk og engelsk i dette sammendraget.)
 
 ### Pensum
 
@@ -11,7 +11,7 @@ Sammendraget tar utgangspunkt i pensumboken Seeing What's Next, spesifiserte pen
 * [Chains, Shops and Networks: The Role of IS in New Models of Value Creation](http://files.kimjoar.net/ttm4165_chains-shops-and-networks.pdf)
 * [Challenges in Telecommunications](http://files.kimjoar.net/ttm4165_challenges-in-telecommunications.pdf)
 * [Positive Feedbacks in the Economy](http://files.kimjoar.net/ttm4165_positive-feedbacks-in-the-economy.pdf)
-* [Positive feedback from the market: network externalities](http://files.kimjoar.net/ttm4165_positive-feedback-from-the market-network-externalities.pdf)
+* [Positive feedback from the market, network externalities](http://files.kimjoar.net/ttm4165_positive-feedback-from-the market-network-externalities.pdf)
 * [Network Neutrality](http://files.kimjoar.net/ttm4165_network-neutrality.pdf)
 * [Wired: The Long Tail](http://www.wired.com/wired/archive/12.10/tail.html)
 * [Wikipedia: The long tail](http://en.wikipedia.org/wiki/The_Long_Tail)
@@ -91,7 +91,7 @@ Regulering
 ### PTs reguleringsstrategi
 
 * Teknologinøytral regulering
-* Konsentrasjon om grossistmarkeder (samtrafikk, tilgang til nett, Kobberaksess (Local Loop Unbundling),  osv)
+* Konsentrasjon om grossistmarkeder (samtrafikk, tilgang til nett, Kobberaksess (Local Loop Unbundling), osv)
 * Myk regulering og minst mulig inngrep, altså kun regulere gjennom vedtak når det er nødvendig.
 * Åpenhet i beslutningsprosessen
 * Jevnlig kontakt med markedsaktørene og etableringer av arbeidsgrupper
@@ -139,12 +139,14 @@ Samtrafikk
 
 * Funksjon som tilrettelegger for formidling av trafikk mellom tilbydere slik at sluttbrukere kan kommunisere med hverandre og ha tilgang til offentlig elektronisk kommunikasjonstjeneste uavhengig av tilbydertilknytning.
 * Med samtrafikk menes utveksling av teletjenester mellom ulike tilbydere av teletjenester i Norge. En forutsetning for realisering av samtrafikk er at partenes nett er fysisk sammenkoblet.
-* Originering.
-* Terminering.
+* Samtrafikk betegner normalt teletrafikk mellom nett, f.eks mellom Telenors og BaneTeles nett i Norge. I land som praktiserer adgang til mobilnett for konkurrerende videreselger eller virtuell operatør, vil samtrafikk også omfatte trafikk mellom teleselskaper i samme nett.
+* Samtrafikk er en helt nødvendig forutsetning for konkurranse i telemarkedet.
+* Originering av utgående trafikk betegner den tjenesten et teleselskap yter når det lar sin kunde starter en samtale eller datastrøm hos selskapet, og teleselskapet formilder signalene til et annet teleselskap, som viderefører signalet til en av sine sluttkunder (terminerer).
+* Terminering av inngående trafikk betegner den tjenesten et teleselskap yter når det lar sin kunde ta imot en samtale eller en datastrøm fra en kunde hos et annet teleselskap, og som dette konkurrerende teleselskapet har framført til grensesnittet mellom teleselskapene (originering). 
 
-![Samtrafikk](samtrafikk.png)
-![Originering og terminering](originering-terminering.png)
-![Transitt](transitt.png)
+![Samtrafikk](http://github.com/kjbekkelund/ttm4165/tree/master/samtrafikk.png)
+![Originering og terminering](http://github.com/kjbekkelund/ttm4165/tree/master/originering-terminering.png)
+![Transitt](http://github.com/kjbekkelund/ttm4165/tree/master/transitt.png)
 
 ### Fasttelefoni og bredbåndstelefoni
 
@@ -256,7 +258,7 @@ Network externalities
 * Negative feedback: The feedback signal counteracts any deviation of the output of the system from its equilibrium value. Systems with negative feedback is always stationary.
 * Positive feedback: Any change in the output signal is amplified. In systems with positive feedback the output signal approaches a fixed limit (or saturates).
 * These models are based on buyers only buying one copy during the whole lifetime of the product.
-* In an ordínary market, the number of copies sold per unit time is proportional to the number of people not having purchased a copy already.
+* In an ordinary market, the number of copies sold per unit time is proportional to the number of people not having purchased a copy already.
 * Positive feedback from the market means that the number of customers likely to purchase a product also depends on how many customers that have already purchased the product.
 * Sometimes this type of market is called network externality or network effect because the feedback is caused by a formal or informal network among the customers. Such networks may be based on acquaintance where the buyer may seek advice from other people before buying the product of a particular brand. The benefit the customers finds in owning the product, increases with the number of people already owning it.
 * All markets with positive feedback are nonlinear.
@@ -270,6 +272,21 @@ Network externalities
   * Reed's law: Value of the network is 2^N (exponential) since this is the number of groups that can be formed in the network. The capability of forming groups with different purposes and scopes may be the most important aspect of some networks.
 * Churning rate: Net number of customers that A looses to or captures from B.
 * Winner-takes-all market. Usually there it not place for more than one of these products in the market (e.g. VHS vs Beta). (Market with positive feedback there two providers A and B are offering the same (or substitutable) product, and customers may churn.)
+
+Lock-in
+-------
+
+* Winner-takes-all.
+* Det koster kunder å skifte leverandør
+* Det kost ny leverandør å kapre kunden fra andre
+* Customer lock-in is the norm in the information economy.
+* Switching costs must be evaluated relative to revenues on a per-customer basis.
+* Anyone who makes investments that are specific to a particular supplier, customer, or partner is subject to lock-in for the economic lifetime of those investments.
+* The most basic principle in understanding and dealing with lock-in is to anticipate the entire cycle from the beginning.
+* As a supplier, switching costs are the key to valuing your installed base.
+* The essence of lock-in is that your choices in the future will be limited by your investments today.
+
+![Lock-in cycle](http://github.com/kjbekkelund/ttm4165/tree/master/lock-in-cycle.png)
 
 Network Neutrality
 ------------------
@@ -311,7 +328,7 @@ Chains, Shops and Networks
 
 ### Chain (kjede)
 
-![Value Chain](value-chain.png)
+![Value Chain](http://github.com/kjbekkelund/ttm4165/tree/master/value-chain.png)
 
 * The chain is the factory producing goods and is a linear chain that in its simplest form consists of logistics in, production of the goods, and logistics out.
 * A value chain is a chain of activities. Products pass through all activities of the chain in order and at each activity the product gains some value. The chain of activities gives the products more added value than the sum of added values of all activities.
@@ -349,8 +366,8 @@ Stupid Network
   * In a stupid network, expansion is no problem.
 * This ability to "just do it" liberates huge amounts of innovative energy.
 
-Seeing What's Next
-------------------
+Disruptive innovation
+---------------------
 
 * Framework for predicting outcomes in the evolution of any industry.
 * Three-part model that helps decision-makers spot the signals of industry change, determine the outcome of competitive battles, and assess whether a firm's actions will ensure or threaten future success.
@@ -365,20 +382,51 @@ Seeing What's Next
 * VCE's golden rule: Integrate to improve what is "not good enough" and out-source what is "more than good enough". Solving the hard problems allows firms to capture value.
 * Fire forutsetninger for økt grad av disruption:
   1. Idéutvikling. Incumbents frigjør ideer.
-  2. Leverandører evne til å levere.
+  2. Leverandørers evne til å levere.
   3. Mobil, kompetent og tilgjengelig arbeidskraft.
   4. Tilgjengelig kapital.
 * Distinguishes between "low-end disruption" which targets customers who do not need the full performance valued by customers at the high-end of the market and "new-market disruption" which targets customers who have needs that were previously unserved by existing incumbents.
 * "Low-end disruption" occurs when the rate at which products improve exceeds the rate at which customers can adopt the new performance.
 * It is often entirely rational for incumbent companies to ignore disruptive innovations, since they compare so badly with existing technologies or products.
 * Most disruptive innovations will improve faster than what is demanded by mainstream customers, meaning that after some time disruptors should be able to attack established firms.
+* Tegn i tiden
+  * Regulering
+  * Sluttkunden endrer atferd
+  * Teknologi
+  * Marked
+* Etablerte aktører søker større markeder og lønnsomme kunder framfor mindre markeder og ulønnsomme kunder. Søker også høyere marginer.
+* Incumbents har store fordeler, men reagerer sent, har stor overhead og er trege. 
+* For å bøte kan en incumbent:
+  * Spin-out
+  * Internt equity selskap
+  * Desentralisere oppstart
+* Ikke-konsumenter:
+  * Størst potensial for langsiktig industriendring, men vanskelig å identifisere.
+  * Signaler: Høy og økende vekstrate i nytt marked.
+* Asymmetri:
+  * Motivasjon. Gjør noe et annet selskap ikke ønsker å gjøre. Størrelsen på markeder relativt til selskapets størrelse.
+  * Ferdigheter. Gjør noe et annet selskap ikke er i stand til å gjøre. Mismatch mellom prosessene som kreves og de som er etablert. 
+* In contrast, the leading companies almost always were toppled when disruptive technologies emerged-products or services that weren't as good as those already used in established markets.
+* Responsstrategier:
+  * Overlate til nykommer. Forlater lav-ende markeder. Refokusering på kjerne-kunder.
+  * Co-option. Prøver å slå tilbake med interne ressurser. Bygger eller kjøper disruptive innovasjoner.
+  * Vekst-dreven co-option. Systematisk mot nykommerens kunder. 
+  * Defensiv co-option. Bygger en vegg rundt eksisterende kunder. 
+* Integration is an absolute necessity for radical sustaining innovations. Integrated companies can master the myriad interdependencies involved in wrestling with compatability, interoperability and legacy issues.
+* A signal that a company is launching a low-end disruptive innovation is the creation of a business model that makes money in a different way than established companies.
+* Displacements generally overshoots customers _and_ have modular interfaces. As a general rule, specialists cannot win unless their products can interface with the larger product system at points of well-defined modularity.
+* Two generic strategies for competative advantage: differentiation and low cost.
+* Asymmetries allow disruptive attackers to enter a market, grow without incumbent interference, and mitigate the incumbent's response when it is finally motivated to counterattack.
+* When firms can't choose to flee, we can expect them to fight.
+* It is _only_ when a firm has neither the skills to go after an opportunity nor the motivation to develop it internally that a spinout organization makes sense.
 
-![Potensielle kundegrupper](potential-customer-groups.png)
-
+![Potensielle kundegrupper](http://github.com/kjbekkelund/ttm4165/tree/master/potential-customer-groups.png)
+![Tilpasse organisasjonen til endringer](http://github.com/kjbekkelund/ttm4165/tree/master/tilpasse-organisasjon-til-endring.png) 
+ 
 Finansielle betraktninger
 -------------------------
 
-* Utenom Telenor er telekom-markedet i Norge forsvinnende lite. 9 % av total verdi på børsselskapene er telekom-bedrifter (60-70% er oljerelatert).
+* Utenom Telenor er telekom-markedet i Norge forsvinnende lite. 9% av total verdi på børsselskapene er telekom-bedrifter (60-70% er oljerelatert).
 * Hvorfor? Mange flinke ingeniører har gått til oljerelaterte bedrifter.
 * Hva skaper lønnsomhet?
   * Etterspørsel
@@ -448,14 +496,19 @@ Grønn IKT
 * Graving utgjør 80% av kost uansett kabeltype. Føringsveien utgjør 50% av øvrige kostnader.
 * Investere i FTTH
   * First mover benefit, lav churn rate, nye inntektsstrømmer.
-* Kunder vil ha tjenester, ikke teknologi.
+* Utfordringer: Differensiere mot alternativene. Unikt innhold må utvikles. Kunder vil ha tjenester, ikke teknologi.
+* FTTH trengs for å konkurrere i viktige markedssegmenter.
+* Finansiering: Lav etablering, høy tjenestepris vs høy etablering, lav tjenestepris.
 * Åpent nett:
   * Innholdsleverandører leier adgang til å levere sine tjenester og netteiers aksessnett.
   * Kundene kan selv velge blant leverandørene av Internett, IPTV, IP-telefone og andre tjenester.
-  * Energiverk/kommune tra rollen som nettutbygger
+  * Energiverk/kommune tar rollen som nettutbygger
   * Netteier kan også ta operatørrollen
   * Nettoperatør kan levere sitt eget innhold
   * Horisontalt integrerte operatører. Ett nett bygges av én infrastruktur-tilbyder. Nettet driftes av en rendyrket nettverksoperatør. Tjenesteleverandørene tilbys ikke-diskriminerende tilgang til nettet. Open access.
+* Arkitekturer
+  * AON. Dedikert aksess. Lav etableringskost. Priser skalerer lineært.
+  * PON. Broadcast. Lav marginalkost. Hopp i kostnader. Mindre kabel.
 * Regulering
   * Hva er best for vekst? "Tilgang til felles infrastruktur gir billigst og raskest utbygging", "Regulering kan true utbyggers lønnsomhet dersom man må tillate konkurrenter på eget nett", "La oss først bygge fortest mulig, så kan markedet reguleres i etterkant."
 
@@ -486,23 +539,3 @@ Grønn IKT
     <td>Netteier har "all" makt. Konkurranse fra andre plattformer.</td>
   </tr>
 </table>
-
-Fra sammendragsøkt
-------------------
-
-* Verdiskapning
-* Regulering
-* Samtrafikk
-* Long Tail
-* Teknologi > produkt
-* Åpne nett
-* Kommers
-* Finans
-* Grønn IKT
-
-Hvordan bransjen tenker. Spranget fra telekom til Internett. Eierskap. Styring. Samfunnsgoder.
-
-HVa er særeget for IKT? Strategiske konsekvenser, teknolgi, ...
-
-Ikke pensunm: Telecommnunications and complexity & The role of the transport layer
-
