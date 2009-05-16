@@ -420,9 +420,24 @@ Disruptive innovation
 * Asymmetries allow disruptive attackers to enter a market, grow without incumbent interference, and mitigate the incumbent's response when it is finally motivated to counterattack.
 * When firms can't choose to flee, we can expect them to fight.
 * It is _only_ when a firm has neither the skills to go after an opportunity nor the motivation to develop it internally that a spinout organization makes sense.
+* Different or radical technology does not equal disruptive.
 
 ![Potensielle kundegrupper](http://github.com/kjbekkelund/ttm4165/tree/master/potential-customer-groups.png?raw=true)
 ![Tilpasse organisasjonen til endringer](http://github.com/kjbekkelund/ttm4165/tree/master/tilpasse-organisasjon-til-endring.png?raw=true) 
+
+### Disruptive, telecom
+
+* Companies are bringing voice services into new contexts, building low-cost business models, and developing new skills.
+* Incumbents' most powerful resource are their established networks. Technologies that rely on physical network connections are often vulnerable to co-option.
+* Some of incumbents' most important skills include building and maintaining large networks, managing small incremental transactions, handling government regulation, and providing network services.
+* In some market tiers evidence suggests new benefits around convenience and portability trumps functionality and reliability.
+* VoIP could be implemented as a sustaining innovation to lower internal costs and add high-value features and functionality, as a low-end disruption bringing good-enough service at low price points, or as a new market disruption that makes high-end features more affordable to the masses.
+* Incumbent service providers seem to be both motivated and able to co-opt IP-based technologies and compete in the data context. Why? For one reason, their customers want IP solutions. Furthermore, IP technologies allow service providers to lower their own operating costs.
+* The two value networks (data and voice) have significant points of overlap.
+* Some incumbent strengths world come in quite handy in an IP world, e.g. the capacity to manage complex network could be a competative advantage.
+* The vertically integrated, centrally coordinated, voice-based business model is poised to disintegrate. Separation between service and transport. Decoupling.
+* A company that establishes a disruptive foothold and marches up-market has a greater chance of actually reaching its destination than a company that tries to make the jump all at once.
+* Nothing has fundamentally reshaped the telecom industry since the introduction of the telephone.
 
 Finansielle betraktninger
 -------------------------
