@@ -332,13 +332,14 @@ Different parts of a business may exhibit the characteristics of different confi
 ### Chain (kjede)
 
 ![Value Chain](http://github.com/kjbekkelund/ttm4165/tree/master/value-chain.png?raw=true)
-![Value Shop](http://github.com/kjbekkelund/ttm4165/tree/master/value-shop.png?raw=true)
 
 * The chain is the factory producing goods and is a linear chain that in its simplest form consists of logistics in, production of the goods, and logistics out.
 * A value chain is a chain of activities. Products pass through all activities of the chain in order and at each activity the product gains some value. The chain of activities gives the products more added value than the sum of added values of all activities.
 * Require strict management of processes, timing, production cost and stock.
 
 ### Shops (verksted)
+
+![Value Shop](http://github.com/kjbekkelund/ttm4165/tree/master/value-shop.png?raw=true)
 
 * Mobilise resources (people, knowledge or money, for example) to solve specific problems such as curing an illness or delivering a solution to a business problem.
 * Shops are problem-solving organisations.
