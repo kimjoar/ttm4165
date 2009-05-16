@@ -421,6 +421,9 @@ Disruptive innovation
 * When firms can't choose to flee, we can expect them to fight.
 * It is _only_ when a firm has neither the skills to go after an opportunity nor the motivation to develop it internally that a spinout organization makes sense.
 * Different or radical technology does not equal disruptive.
+* Companies have very strong incentive to innovate and move up-market because more demanding customers tend to pay premium prices for products or services that solve the toughest problems.
+* Disruptive product or services initially are inferior to existing offerings in the attribute that matters most in the mainstream.
+* Products taht successfully match the job or the circumstance we find ourselves in end up being the real "killer applications". Make it easier to do something they are already trying to accomplish.
 
 ![Potensielle kundegrupper](http://github.com/kjbekkelund/ttm4165/tree/master/potential-customer-groups.png?raw=true)
 ![Tilpasse organisasjonen til endringer](http://github.com/kjbekkelund/ttm4165/tree/master/tilpasse-organisasjon-til-endring.png?raw=true) 
@@ -539,6 +542,10 @@ Grønn IKT
 * Utfordringer: Differensiere mot alternativene. Unikt innhold må utvikles. Kunder vil ha tjenester, ikke teknologi.
 * FTTH trengs for å konkurrere i viktige markedssegmenter.
 * Finansiering: Lav etablering, høy tjenestepris vs høy etablering, lav tjenestepris.
+* Strategier (stigende ARPU nedover):
+  * Broadband utility. Fokuserer på aksess til så mange kunder som mulig. Lokale/kommune-prosjekt.
+  * Expand and cash-in. Bred nettverksdeployment, lite service added value. Lokale operatører og kabel-operatører.
+  * Keep it premium. Liten kundebase. Incumbent, kabel-operatør.
 * Åpent nett:
   * Innholdsleverandører leier adgang til å levere sine tjenester og netteiers aksessnett.
   * Kundene kan selv velge blant leverandørene av Internett, IPTV, IP-telefone og andre tjenester.
@@ -547,8 +554,8 @@ Grønn IKT
   * Nettoperatør kan levere sitt eget innhold
   * Horisontalt integrerte operatører. Ett nett bygges av én infrastruktur-tilbyder. Nettet driftes av en rendyrket nettverksoperatør. Tjenesteleverandørene tilbys ikke-diskriminerende tilgang til nettet. Open access.
 * Arkitekturer
-  * AON. Dedikert aksess. Lav etableringskost. Priser skalerer lineært.
-  * PON. Broadcast. Lav marginalkost. Hopp i kostnader. Mindre kabel.
+  * AON (Kraftselskaper). Dedikert aksess. Lav etableringskost. Priser skalerer lineært. Some sort of electrically powered equipment to distribute signal. Kun til spesifikk kunde.
+  * PON (Telenor). Broadcast, point-to-multipoint. Unpowered optical splitters. Lav marginalkost. Hopp i kostnader. Mindre kabel. 
 * Regulering
   * Hva er best for vekst? "Tilgang til felles infrastruktur gir billigst og raskest utbygging", "Regulering kan true utbyggers lønnsomhet dersom man må tillate konkurrenter på eget nett", "La oss først bygge fortest mulig, så kan markedet reguleres i etterkant."
 
