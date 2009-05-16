@@ -327,9 +327,12 @@ Telecom 101
 Chains, Shops and Networks
 --------------------------
 
+Different parts of a business may exhibit the characteristics of different configurations: production and distribution resembles a value chain, research and development a value shop, sales and marketing a value network. Yet if  the business is to function as an integrated unit, we contend that there must be a single overarching model that defines the way the organisation creates value. Trying to force the wrong overarching model can be disastrous.
+
 ### Chain (kjede)
 
 ![Value Chain](http://github.com/kjbekkelund/ttm4165/tree/master/value-chain.png?raw=true)
+![Value Shop](http://github.com/kjbekkelund/ttm4165/tree/master/value-shop.png?raw=true)
 
 * The chain is the factory producing goods and is a linear chain that in its simplest form consists of logistics in, production of the goods, and logistics out.
 * A value chain is a chain of activities. Products pass through all activities of the chain in order and at each activity the product gains some value. The chain of activities gives the products more added value than the sum of added values of all activities.
@@ -337,22 +340,30 @@ Chains, Shops and Networks
 
 ### Shops (verksted)
 
+* Mobilise resources (people, knowledge or money, for example) to solve specific problems such as curing an illness or delivering a solution to a business problem.
 * Shops are problem-solving organisations.
 * Earn more money the better and faster they can solve a problem.
 * Their most important competative market force is their reputation.
+* The shop process is iterative, involving repeatedly performing a generic set of activities until a solution is reached.
 * Shops may exist within networks or chains.
 * Should have the capability to form flexible project teams and be able to reorganize quickly in order to solve new problems.
 * Damaging to shops if they are managed in a hierarchical manner.
+* Perform cyclical, iterative and interruptible activities
+* Exhibit significant sequential and reciprocal interdependence between activities
+* Apply multiple disciplines and specialities in spiralling activity cycles
 
 ### Networks (nettverk)
 
 * The network is a business mediating between the members of the market: people or other businesses, e.g. banks, newspapers and stockbrokers.
+* Single companies that configure themselves to mediate interactions and exchanges across a network of their customers.
 * The challange is to understand the correlations that may exist in the mixed market in which the company is operating.
 * Networks often produce goods that are not stored, but consumed immediately.
 * Networks can also offer mutual benefits to its members. This is the idea behind clubs of different kinds: the more members, the more benefit.
 * May cooperate in parallel or in series forming rather complex configurations.
 * The value being created is between customers when they interact facilitated by the value networks. 
 * Sensitive to how cooperation is managed and the capability to operate in a combined cooperative and competitive environment.
+* Increase value to customers by enlarging the network – the more customers a value network has or is able to connect, the more value it represents to each individual customer.
+* Customers of value networks often care who the other customers of the network are because much of the value they receive is derived from explicit or implicit exchanges with these other customers.
 
 Stupid Network
 --------------
