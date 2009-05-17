@@ -51,6 +51,17 @@ Overblikk
 * Lettere å komme inn på markedet og tilby produkter. Alle kan lage tjenester.
 * Verdiskapningsmåten blir helt omformet.
 
+Telenor E-læringsprogram
+------------------------
+
+* Teleselskapene hadde full kontroll.
+* Monopol. Var lov å komme på markedet, men så store innvesteringer at det i praksis ikke var mulig.
+* Televerkene drev med telefoni, i tillegg til telegrafi, teleks, datakommunikasjon, telefaks og kringkasting.
+* Televerkene startet lokalt, men ble slått sammen og knyttet sammen til landsdekkende nettverk.
+* Ble etterhvert statlige monopol. 
+* Etterhvert kommer intelligente nett og skaper nye tjenester i telefonnettet. VØT - verdiøkende tjenester.
+* Fra vertikal til horisontal deling. Innhold, brukerutstyr, telenett.
+
 Regulering
 ----------
 
@@ -365,6 +376,7 @@ Different parts of a business may exhibit the characteristics of different confi
 * Sensitive to how cooperation is managed and the capability to operate in a combined cooperative and competitive environment.
 * Increase value to customers by enlarging the network – the more customers a value network has or is able to connect, the more value it represents to each individual customer.
 * Customers of value networks often care who the other customers of the network are because much of the value they receive is derived from explicit or implicit exchanges with these other customers.
+* Coopetition finner vi i verdinettverk og det betegner en kombinasjon av konkurranse (competition) og samarbeid (cooperation). Coopetition oppstår pga behov for kompatibilitet mellom ulike produkt.
 
 Stupid Network
 --------------
@@ -435,7 +447,7 @@ Disruptive innovation
 * Different or radical technology does not equal disruptive.
 * Companies have very strong incentive to innovate and move up-market because more demanding customers tend to pay premium prices for products or services that solve the toughest problems.
 * Disruptive product or services initially are inferior to existing offerings in the attribute that matters most in the mainstream.
-* Products taht successfully match the job or the circumstance we find ourselves in end up being the real "killer applications". Make it easier to do something they are already trying to accomplish.
+* Products that successfully match the job or the circumstance we find ourselves in end up being the real "killer applications". Make it easier to do something the users are already trying to accomplish.
 
 ![Potensielle kundegrupper](http://github.com/kjbekkelund/ttm4165/tree/master/potential-customer-groups.png?raw=true)
 ![Tilpasse organisasjonen til endringer](http://github.com/kjbekkelund/ttm4165/tree/master/tilpasse-organisasjon-til-endring.png?raw=true) 
@@ -484,8 +496,8 @@ Finansielle betraktninger
 * Bredbånd har endret markedet. Fast pris. Sende hva som helst over nettverket (IP). Kan skape en telekom-tjeneste uten å bygge et nettverk og uten å leie kapasitet hos noen. Nøkkelpunkt: IP separerer aksess fra tjeneste. Vertikalt vs horisontal.
 * Tre måter å komme seg inn i mobilmarkedet:
   1. **Nettverkseier**. Telenor og NetCom.
-  2. **MVNO**. Ventelo, Tele2 og TDC. Eier switche-utstyr og SIM-kort. Har ikke lisenser. Må låne av nettverkseiere. Litt utstyr selv.
-  3. **Service provider**. 50+ stk. Eier ingenting. Trenger ingen kompetanse. Videreselger egentlig kun abonnement for Telenor og NetCom. Vanskelig å differensiere seg.
+  2. **MVNO**. Ventelo, Tele2 og TDC. Eier switche-utstyr og SIM-kort. Har ikke lisenser. Må låne av nettverkseiere. Litt utstyr selv. Betaler nettverkseier for originering og terminering, mottar termineringsinntekter.
+  3. **Service provider**. 50+ stk. Eier ingenting. Trenger ingen kompetanse. Videreselger egentlig kun abonnement for Telenor og NetCom. Vanskelig å differensiere seg. Har ikke termineringsinntekter, men betaler nettverkseier for orginering.
 * Termineringskostnader er _enormt_ viktige.
 * Konvergens: løsriver seg fra aksessplattform, og alt går over til IP. 
 * Lav inngangsbarriere i IP-nett. Lav inntjening.
