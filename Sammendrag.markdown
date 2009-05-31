@@ -155,9 +155,9 @@ Samtrafikk
 * Originering av utgående trafikk betegner den tjenesten et teleselskap yter når det lar sin kunde starter en samtale eller datastrøm hos selskapet, og teleselskapet formilder signalene til et annet teleselskap, som viderefører signalet til en av sine sluttkunder (terminerer).
 * Terminering av inngående trafikk betegner den tjenesten et teleselskap yter når det lar sin kunde ta imot en samtale eller en datastrøm fra en kunde hos et annet teleselskap, og som dette konkurrerende teleselskapet har framført til grensesnittet mellom teleselskapene (originering). 
 
-![Samtrafikk](http://github.com/kjbekkelund/ttm4165/tree/master/samtrafikk.png?raw=true)
-![Originering og terminering](http://github.com/kjbekkelund/ttm4165/tree/master/originering-terminering.png?raw=true)
-![Transitt](http://github.com/kjbekkelund/ttm4165/tree/master/transitt.png?raw=true)
+![Samtrafikk](http://github.com/kjbekkelund/ttm4165/raw/master/images/samtrafikk.png)
+![Originering og terminering](http://github.com/kjbekkelund/ttm4165/raw/master/images/originering-terminering.png)
+![Transitt](http://github.com/kjbekkelund/ttm4165/raw/master/images/transitt.png)
 
 ### Fasttelefoni og bredbåndstelefoni
 
@@ -298,7 +298,7 @@ Lock-in
 * As a supplier, switching costs are the key to valuing your installed base.
 * The essence of lock-in is that your choices in the future will be limited by your investments today.
 
-![Lock-in cycle](http://github.com/kjbekkelund/ttm4165/tree/master/lock-in-cycle.png?raw=true)
+![Lock-in cycle](http://github.com/kjbekkelund/ttm4165/raw/master/images/lock-in-cycle.png)
 
 Network Neutrality
 ------------------
@@ -342,7 +342,7 @@ Different parts of a business may exhibit the characteristics of different confi
 
 ### Chain (kjede)
 
-![Value Chain](http://github.com/kjbekkelund/ttm4165/tree/master/value-chain.png?raw=true)
+![Value Chain](http://github.com/kjbekkelund/ttm4165/raw/master/images/value-chain.png)
 
 * The chain is the factory producing goods and is a linear chain that in its simplest form consists of logistics in, production of the goods, and logistics out.
 * A value chain is a chain of activities. Products pass through all activities of the chain in order and at each activity the product gains some value. The chain of activities gives the products more added value than the sum of added values of all activities.
@@ -350,7 +350,7 @@ Different parts of a business may exhibit the characteristics of different confi
 
 ### Shops (verksted)
 
-![Value Shop](http://github.com/kjbekkelund/ttm4165/tree/master/value-shop.png?raw=true)
+![Value Shop](http://github.com/kjbekkelund/ttm4165/raw/master/images/value-shop.png)
 
 * Mobilise resources (people, knowledge or money, for example) to solve specific problems such as curing an illness or delivering a solution to a business problem.
 * Shops are problem-solving organisations.
@@ -449,8 +449,8 @@ Disruptive innovation
 * Disruptive product or services initially are inferior to existing offerings in the attribute that matters most in the mainstream.
 * Products that successfully match the job or the circumstance we find ourselves in end up being the real "killer applications". Make it easier to do something the users are already trying to accomplish.
 
-![Potensielle kundegrupper](http://github.com/kjbekkelund/ttm4165/tree/master/potential-customer-groups.png?raw=true)
-![Tilpasse organisasjonen til endringer](http://github.com/kjbekkelund/ttm4165/tree/master/tilpasse-organisasjon-til-endring.png?raw=true) 
+![Potensielle kundegrupper](http://github.com/kjbekkelund/ttm4165/raw/master/images/potential-customer-groups.png)
+![Tilpasse organisasjonen til endringer](http://github.com/kjbekkelund/ttm4165/raw/master/images/tilpasse-organisasjon-til-endring.png) 
 
 ### Disruptive, telecom
 
